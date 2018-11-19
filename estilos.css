@@ -1,0 +1,87 @@
+body {background-color:rgb(255, 255, 255)}
+ embed{
+     text-align:right;
+ }
+ #cab{
+     text-align: center;
+ }
+form{
+    float: right;
+}
+ }
+ .imgmun{
+   text-align: center;
+   font-size: 10000cm
+ }
+ .speech-bubble {
+    background: #6495ED;
+    color: #FFF; 
+    font-family: Arial, Sans-serif;
+    font-size: 12px;
+    padding: 20px 10px 10px 10px;
+    text-align : center;
+    width: 500px;
+    height: 400px;
+    -moz-border-radius: px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    font-size: 100%;
+ }
+ .speech-bubble2 {
+    background: #6495ED;
+    color: #FFF; 
+    font-family: Arial, Sans-serif;
+    font-size: 12px;
+    padding: 20px 10px 10px 10px;
+    text-align : center;
+    width: 300px;
+    height: 400px;
+    -moz-border-radius: px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    float: right;
+    font-size: 100%;
+ }
+
+
+   nav{ text-align: right;
+     -webkit-text-fill-color: grey ;
+ }
+
+ .imgpc{
+     float:center;
+ }
+ a{
+     font-size: 180%;
+ }
+  header{align-items: flex-start;
+   
+      font-size:45%;
+ 
+  }
+  mark{
+     background-color: rgba(252, 59, 0, 0.479);
+  }
+   #encabezado {color: rgba(180, 13, 13, 0.952);
+       font-family: cursive;
+       font-style: italic;
+       
+       text-align: left;
+       font-size: 300%;
+       font-weight: bolder;} 
+
+.imginfo{ float: right;
+
+}
+.imgmano{
+    float:center;
+}
+
+
+       .imgRedonda {
+        
+        width:150px;
+        height:170px;
+        border-radius:150px;
+    }
+.b{ background-color: rgb(255, 255, 255)}
